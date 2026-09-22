@@ -1,0 +1,12 @@
+Cargo.lock
+target/
+.vscode/
+
+# Vim
+.*.swp
+.*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
